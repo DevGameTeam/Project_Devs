@@ -1,5 +1,6 @@
 # Project Dev_Demo
- * Dev Tool: Unity 
+ * Dev Tool: Unity version 2020.3.12f1
+ * Target Platform : Windows, Android(Expected) 
  * Dev Language : C#
  * <a>https://github.com/DevGameTeam/2D_Unity_RPG_GAME</a>
 
@@ -16,14 +17,13 @@
   Space key : Jump
   double Tap D key : Dash
 ```
-## Character Modeling 
- 
 ## Level Design 
  
 ## Fuction 
  
 ## Co-operation tool
- * github & discord
+ * github : https://github.com/DevGameTeam
+ * Discord  
 
 ## Progress 
 ```
@@ -42,5 +42,6 @@
  * Use A* PathFinding Algorithm Unity Package 
  * version 4.2.15 LastUpdate 30 Mar 2020 (Free Version)
  * <a>https://arongranberg.com/astar/</a>
-
  
+### Character Modeling 
+ *
