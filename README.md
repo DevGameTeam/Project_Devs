@@ -2,6 +2,7 @@
  * Dev Tool: Unity 
  * Dev Language : C#
  * <a>https://github.com/DevGameTeam/2D_Unity_RPG_GAME</a>
+
 ## Specification 
  > 2D RPG Genre
 
@@ -33,5 +34,13 @@
  UI Design 2021-08-11 ~ Proceeding
 ```
 
-##issue 
- * 
+## Issues 
+ * <a>https://github.com/DevGameTeam/2D_Unity_RPG_GAME/issues</a>
+
+## Preference 
+ ### PathFinding 
+ * Use A* PathFinding Algorithm Unity Package 
+ * version 4.2.15 LastUpdate 30 Mar 2020 (Free Version)
+ * <a>https://arongranberg.com/astar/</a>
+
+ 
