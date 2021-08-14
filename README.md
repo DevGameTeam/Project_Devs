@@ -36,6 +36,8 @@
 
 ## Issues 
  * <a>https://github.com/DevGameTeam/2D_Unity_RPG_GAME/issues</a>
+ * Enemy Collider Issue 
+ * Player Character Animation Issue
 
 ## Preference 
  ### PathFinding 
