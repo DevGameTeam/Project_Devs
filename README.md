@@ -1,4 +1,4 @@
-# Project Dev_Demo
+# Dev_Demo
  * Dev Tool: Unity version 2020.3.12f1
  * Target Platform : Windows, Android(Expected) 
  * Dev Language : C#
@@ -21,9 +21,10 @@
 ## Fuction 
  
 ## Co-operation tool
- * github : https://github.com/DevGameTeam
+ * Github : https://github.com/DevGameTeam
  * Discord  
-
+ * Adobe Photoshop (UI Design and Level Design)
+ * Figma 
 ## Progress 
 ```
  Add Player Character Animation (Move, Crawl, Attack, Slide) 2021-07-31 Complete
@@ -31,6 +32,7 @@
  Add Enemy AI 2021-08-10 ~ Proceeding
  Level Design 2021-08-11 ~ Proceeding
  UI Design 2021-08-11 ~ Proceeding
+ Add SFX (Expect)
 ```
 
 ## Issues 
