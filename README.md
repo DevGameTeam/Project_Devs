@@ -43,8 +43,17 @@
 ## Preference 
  ### PathFinding 
  * Use A* PathFinding Algorithm Unity Package 
- * version 4.2.15 LastUpdate 30 Mar 2020 (Free Version)
+ * Latest Version 4.2.15 Last Update 30 Mar 2020 (Free Version)
  * <a>https://arongranberg.com/astar/</a>
  
-### Character Modeling 
- *
+### Player Character Modeling Asset
+ * Use Warrior Free Asset Package 
+ * Latest Version 1.0 
+ * License Agreement Standard Unity Asset Store EULA
+ * <a>https://assetstore.unity.com/packages/2d/characters/warrior-free-asset-195707</a>
+
+### Enemy Character Modeling Asset
+ * Use Hero nad Opponents Animation Free Asset Package 
+ * Latest Version 1.0 
+ * License Agreement Standard Unity Asset Store EULA
+ * <a>https://assetstore.unity.com/packages/2d/characters/hero-nad-opponents-animation-140776</a>
