@@ -23,8 +23,8 @@
 ## Co-operation tool
  * Github : https://github.com/DevGameTeam
  * Discord  
- * Adobe Photoshop (UI Design and Level Design)
- * Figma 
+ * Adobe Photoshop (UI & UX Design and Level Design)
+ * Figma (UI & UX Design)
 ## Progress 
 ```
  Add Player Character Animation (Move, Crawl, Attack, Slide) 2021-07-31 Complete
