@@ -5,8 +5,8 @@
  * <a>https://github.com/DevGameTeam/2D_Unity_RPG_GAME</a>
 
 ## Specification 
- > 2D RPG Genre
-
+ * Genre : 2D RPG Genre
+ * Developer : KanuKim97, whdals3815
 ## Character Manual
 ```
   Left Arrow Key : Move Left 
@@ -17,8 +17,7 @@
   Space key : Jump
   double Tap D key : Dash
 ```
-## Level Design 
- 
+
 ## Fuction 
  
 ## Co-operation tool
