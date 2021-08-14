@@ -32,7 +32,7 @@
  Add Enemy AI 2021-08-10 ~ Proceeding
  Level Design 2021-08-11 ~ Proceeding
  UI Design 2021-08-11 ~ Proceeding
- Add SFX (Expect)
+ Add SFX (Expected)
 ```
 
 ## Issues 
