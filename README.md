@@ -27,6 +27,7 @@
  * Discord  
  * Adobe Photoshop (UI & UX Design and Level Design)
  * Figma (UI & UX Design)
+ * 
 ## Progress 
 ```
  Add Player Character Animation (Move, Crawl, Attack, Slide) 2021-07-31 Complete
@@ -35,6 +36,8 @@
  Level Design 2021-08-11 ~ (1st Level Design complete and the other is Proceeding now)
  UI Design 2021-08-11 ~ Proceeding but have a issue, soon will be committed it 
  Add SFX (Expected)
+ Add Inital Screen (Expected)
+ Add Inventory (Expected)
 ```
 
 ## Issues 
