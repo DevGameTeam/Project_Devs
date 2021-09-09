@@ -16,6 +16,8 @@
   S Key : Slide 
   Space key : Jump
   double Tap D key : Dash
+  Wall climbing : 
+    - Condition (Player Left side wall can climb)
 ```
 
 ## Fuction 
@@ -30,8 +32,8 @@
  Add Player Character Animation (Move, Crawl, Attack, Slide) 2021-07-31 Complete
  Add Enemy 2021-08-05 Complete 
  Add Enemy AI 2021-08-10 ~ Proceeding
- Level Design 2021-08-11 ~ Proceeding
- UI Design 2021-08-11 ~ Proceeding
+ Level Design 2021-08-11 ~ (1st Level Design complete and the other is Proceeding now)
+ UI Design 2021-08-11 ~ Proceeding but have a issue, soon will be committed it 
  Add SFX (Expected)
 ```
 
@@ -39,7 +41,9 @@
  * <a>https://github.com/DevGameTeam/2D_Unity_RPG_GAME/issues</a>
  * Enemy Collider Issue 
  * Player Character Animation Issue
-
+ * Enemy AI Animation Issue <Soon will be commited it>
+ * Player's Character Wall Climbing Issue <Soon will be commited it>
+ 
 ## Preference 
  ### PathFinding 
  * Use A* PathFinding Algorithm Unity Package 
