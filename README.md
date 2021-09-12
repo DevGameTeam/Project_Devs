@@ -3,10 +3,13 @@
  * Target Platform : Windows, Android(Expected) 
  * Dev Language : C#
  * <a>https://github.com/DevGameTeam/2D_Unity_RPG_GAME</a>
-
+ * Expected Rework Level Design and UI
+  
+ 
 ## Specification 
  * Genre : 2D RPG Genre
  * Developer : KanuKim97, whdals3815
+  
 ## Character Manual
 ```
   Left Arrow Key : Move Left 
@@ -18,6 +21,7 @@
   double Tap D key : Dash
   Wall climbing : 
     - Condition (Player Left side wall can climb)
+    - Right Wall Climbing support Expected
 ```
 
 ## Fuction 
