@@ -21,7 +21,7 @@
   double Tap D key : Dash
   Wall climbing : 
     - Condition (Player Left side wall can climb)
-    - Right Wall Climbing support Expected
+    - Right Wall Climbing support will be Expected
 ```
 
 ## Fuction 
