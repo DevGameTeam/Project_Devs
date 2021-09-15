@@ -8,8 +8,10 @@
  
 ## Specification 
  * Genre : 2D RPG Genre
- * Developer : KanuKim97, whdals3815
-  
+ * Director : KanuKim97
+ * Programmer : KanuKim97, whdals3815
+ * Level Designer : whdals3815
+ * UI Designer : whdals3815
 ## Character Manual
 ```
   Left Arrow Key : Move Left 
@@ -19,6 +21,7 @@
   S Key : Slide 
   Space key : Jump
   double Tap D key : Dash
+  Left Shift : Sprint
   Wall climbing : 
     - Condition (Player Left side wall can climb)
     - Right Wall Climbing support will be Expected
